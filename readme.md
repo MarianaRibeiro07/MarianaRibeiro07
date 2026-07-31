@@ -7,38 +7,59 @@
   <a href="https://www.linkedin.com/in/mari-ribeiroo">Mariana Ribeiro 🩷</a>
 </h1>
 
-Tenho interesse em desenvolvimento de software e estou constantemente aprimorando minhas habilidades por meio de projetos práticos, estudos e desafios. Trabalho principalmente com **Java, HTML, CSS, JavaScript, PHP e MySQL**, além de utilizar ferramentas como **Git/GitHub, Figma, Bootstrap e Power BI**.
+<p align="center">
+Tenho interesse em desenvolvimento de software e estou constantemente aprimorando minhas habilidades por meio de projetos práticos, estudos e desafios.
+<br>
+Trabalho principalmente com <b>Java, HTML, CSS, JavaScript, PHP e MySQL</b>, além de utilizar ferramentas como <b>Git/GitHub, Figma, Bootstrap e Power BI</b>.
+</p>
 
-<div align="center" width="100%">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF8CC8&width=900&size=22&center=true&lines=Estudante+de+Desenvolvimento+de+Sistemas;Gosto+de+compartilhar+meu+aprendizado;Seja+Bem+Vindo!"
-    alt="Typing SVG"
-  />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=600&size=23&duration=3000&pause=1200&color=FF8CC8&center=true&vCenter=true&width=900&lines=👩‍💻+Estudante+de+Desenvolvimento+de+Sistemas;💡+Gosto+de+compartilhar+meu+aprendizado;🚀+Sempre+aprendendo+algo+novo;✨+Seja+Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG"/>
+
 </div>
+
+<br>
+
+<p align="center">
+🌸 <b>Construindo soluções, aprendendo todos os dias e transformando ideias em código.</b> 🌸
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-FF8CC8?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-FF8CC8?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-FF8CC8?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FF8CC8?style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
 
 <br><br>
 
 <div align="center">
 
 <img
-  height="175"
-  align="center"
-  alt="GitHub Stats"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarianaRibeiro07&theme=dracula"
+height="175"
+align="center"
+alt="GitHub Stats"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarianaRibeiro07&theme=dracula"
 />
 
 <img
-  height="175"
-  align="center"
-  alt="Top Languages"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarianaRibeiro07&theme=dracula"
+height="175"
+align="center"
+alt="Top Languages"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarianaRibeiro07&theme=dracula"
 />
 
+<br><br>
+
 <img
-  align="center"
-  alt="Profile Details"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarianaRibeiro07&theme=dracula"
+align="center"
+alt="Profile Details"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarianaRibeiro07&theme=dracula"
 />
+
 </div>
 
 <br><br>
