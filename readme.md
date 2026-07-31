@@ -1,21 +1,13 @@
-# Mariana Ribeiro🩶
-
-Me chamo Mariana Chaves Ribeiro, tenho 17 anos e atualmente estou cursando Técnico em Desenvolvimento de Sistemas e Java no SENAI👩‍💻, além de estar aprimorando meus conhecimentos em inglês. Tenho grande interesse na área de tecnologia, e estou buscando me inserir no mercado de trabalho para colocar em prática meus aprendizados e crescer profissionalmente.
-Minhas principais habilidades incluem programação em Java, desenvolvimento de sistemas, lógica de programação, análise e resolução de problemas, técnicas de metodologia ágil e planilhas avançadas no Excel. 
-Estou sempre em busca de novos desafios que me permitam expandir minhas habilidades e contribuir de maneira efetiva para o sucesso de projetos na área de tecnologia.
-Com determinação e foco, meu objetivo é seguir construindo minha carreira nesse universo tecnológico, oferecendo soluções inovadoras e me adaptando às necessidades do mercado.🏆
-
-Follow in Instagram "[@_marianaribeirox](https://www.instagram.com/_marianaribeirox/)".
-
-Email para contato "marianacribeiro1012@gmail.com"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
 <div>
   
   <h1 align="center">
-    oii, tudo bem? eu sou 
-    <a href="https://www.linkedin.com/in/isabella-puzenato-22843b352/">Isabella Puzenato 🤍</a>
+    eu sou a
+    <a href="https://www.linkedin.com/in/isabella-puzenato-22843b352/">Mariana Ribeiro 🩷</a>
   </h1>
+  
+  Tenho interesse em desenvolvimento de software e estou constantemente aprimorando minhas habilidades por meio de projetos práticos, estudos e desafios. Trabalho principalmente com Java, HTML, CSS, JavaScript, PHP e MySQL, além de utilizar ferramentas como Git/GitHub, Figma, Bootstrap e Power BI.
   
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Estudante+de+Desenvolvimento+de+Sistemas;Gosto+de+compartilhar+meu+aprendizado;Seja+Bem+Vindo!" alt="Typing SVG"/>
