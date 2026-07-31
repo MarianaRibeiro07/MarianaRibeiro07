@@ -34,7 +34,6 @@
   alt="GitHub Stats"
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarianaRibeiro07&theme=dracula"
 />
-
 <img
   height="175"
   align="center"
@@ -42,8 +41,7 @@
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarianaRibeiro07&theme=dracula"
 />
 
-<br><br>
-
+<br>
 <img
   align="center"
   alt="Profile Details"
