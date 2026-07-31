@@ -16,16 +16,13 @@
 </p>
 
 <div align="center">
-
 <img
   src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF8CC8&width=900&size=22&center=true&lines=Estudante+de+Desenvolvimento+de+Sistemas;Gosto+de+compartilhar+meu+aprendizado;Seja+Bem+Vindo!"
   alt="Typing SVG"
 />
 
 </div>
-
-<br><br>
-
+<br>
 <div align="center">
 
 <img
