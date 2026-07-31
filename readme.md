@@ -1,73 +1,76 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF8CC8"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
 <div>
-  
-  <h1 align="center">
-    eu sou a
-    <a href="https://www.linkedin.com/in/isabella-puzenato-22843b352/">Mariana Ribeiro 🩷</a>
-  </h1>
-  
-  Tenho interesse em desenvolvimento de software e estou constantemente aprimorando minhas habilidades por meio de projetos práticos, estudos e desafios. Trabalho principalmente com Java, HTML, CSS, JavaScript, PHP e MySQL, além de utilizar ferramentas como Git/GitHub, Figma, Bootstrap e Power BI.
-  
+
+<h1 align="center">
+  Eu sou a
+  <a href="https://www.linkedin.com/in/mari-ribeiroo">Mariana Ribeiro 🩷</a>
+</h1>
+
+Tenho interesse em desenvolvimento de software e estou constantemente aprimorando minhas habilidades por meio de projetos práticos, estudos e desafios. Trabalho principalmente com **Java, HTML, CSS, JavaScript, PHP e MySQL**, além de utilizar ferramentas como **Git/GitHub, Figma, Bootstrap e Power BI**.
+
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Estudante+de+Desenvolvimento+de+Sistemas;Gosto+de+compartilhar+meu+aprendizado;Seja+Bem+Vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF8CC8&width=900&size=22&center=true&lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonada+por+Tecnologia;Sempre+Aprendendo+e+Criando;Seja+Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG"/>
 </div>
 
-<br>
-<br>
+<br><br>
 
 <div align="center">
-  <img
-    height=175
-    align="center"
-    alt="GitHub Stats"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isapznt&theme=midnight_purple"
-  />
-  <img
-    height=175
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarianaRibeiro07&theme=midnight_purple"
-  />
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarianaRibeiro07&theme=midnight_purple"
-  />
-  <br>
-  <br>
 
-  <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-  
-  
-  
+<img
+height="175"
+align="center"
+alt="GitHub Stats"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarianaRibeiro07&theme=midnight_purple"
+/>
+
+<img
+height="175"
+align="center"
+alt="Top Languages"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarianaRibeiro07&theme=midnight_purple"
+/>
+
+<br><br>
+
+<img
+align="center"
+alt="Profile Details"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarianaRibeiro07&theme=midnight_purple"
+/>
+
 </div>
-  <br>
+
+<br><br>
 
 <div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](marianacribeiro1012@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=9745f5)](https://www.instagram.com/_marianaribeirox/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](www.linkedin.com/in/mari-ribeiroo)
-  
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg"/>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI-Dark.svg"/>
+
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
-           
 
+<br><br>
 
+<div align="center">
+
+### 🌸 Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF8CC8)](mailto:marianacribeiro1012@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF8CC8)](https://www.instagram.com/_marianaribeirox/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF8CC8)](https://www.linkedin.com/in/mari-ribeiroo)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF8CC8&height=100&section=footer"/>
