@@ -21,27 +21,24 @@ Tenho interesse em desenvolvimento de software e estou constantemente aprimorand
 <div align="center">
 
 <img
-height="175"
-align="center"
-alt="GitHub Stats"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarianaRibeiro07&theme=midnight_purple"
+  height="175"
+  align="center"
+  alt="GitHub Stats"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarianaRibeiro07&theme=dracula"
 />
 
 <img
-height="175"
-align="center"
-alt="Top Languages"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarianaRibeiro07&theme=midnight_purple"
+  height="175"
+  align="center"
+  alt="Top Languages"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarianaRibeiro07&theme=dracula"
 />
-
-<br><br>
 
 <img
-align="center"
-alt="Profile Details"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarianaRibeiro07&theme=midnight_purple"
+  align="center"
+  alt="Profile Details"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarianaRibeiro07&theme=dracula"
 />
-
 </div>
 
 <br><br>
